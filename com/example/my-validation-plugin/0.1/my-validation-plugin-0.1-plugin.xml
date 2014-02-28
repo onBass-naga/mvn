@@ -1,0 +1,8 @@
+<plugin name='my-validation-plugin' version='0.1' grailsVersion='2.3 &gt; *'>
+  <author>naga</author>
+  <title>My Validation Plugin</title>
+  <description>日付文字列のチェックを行うためのプラグイン（サンプル）
+</description>
+  <type>MyValidationPluginGrailsPlugin</type>
+  <resources />
+</plugin>
